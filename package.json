@@ -2,8 +2,8 @@
   "name": "react-leaflet-draw",
   "version": "0.19.8",
   "description": "React component for leaflet-draw",
-  "main": "dist/react-leaflet-draw.js",
-  "module": "dist/esm/index.js",
+  "main": "src/index.js",
+  "module": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:dist": "npm run build:umd && npm run build:umd:min && npm run build:esm",
